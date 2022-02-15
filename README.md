@@ -1,6 +1,6 @@
 # Desafio programação - para vaga Full-stack
 
-Por favor leiam este documento do começo ao fim, com muita atenção.
+Por favor, leiam este documento do começo ao fim, com muita atenção.
 O intuito deste teste é avaliar seus conhecimentos técnicos.
 
 ## Requisitos do projeto Backend
@@ -21,8 +21,8 @@ O intuito deste teste é avaliar seus conhecimentos técnicos.
 
 Você deverá criar um projeto de boas-vindas para os usuários já existentes na base.
 Para isso você precisará criar dois serviços backend, sendo:
-* Um serviço que realize o login do usuário e salva a sessão com os dados no banco DynamonDB.
-* Um serviço qe retorne esses dados do usuário logado salvo no DynamonDB.
+* Um serviço que realize o login do usuário e salve a sessão com os dados no banco DynamonDB.
+* Um serviço que retorne esses dados do usuário logado salvo no DynamonDB.
 
 Também será necessário criar uma tela de login para esse usuário e uma segunda de "bem vindo {usuário}"
 
@@ -44,8 +44,8 @@ Também será necessário criar uma tela de login para esse usuário e uma segun
 
 # Dicas
 
-* Não estamos solicitando um projeto fronend com uma interface visual impecável, foquese nas funcionalidades;
-* Remomendamos a utilização do pluging "serverless-offline" para auxiliá-lo no seu desenvolvimento local. (API Gateway / lambda);
-* Não pedimos os fluxo completo de autenticação (registrar, esquecia a senha, etc.). Crie os usuários desejados manualmente ou por algum tipo de migration.
+* Não estamos solicitando um projeto front end com uma interface visual impecável, foque se nas funcionalidades;
+* Recomendamos a utilização do plugin "serverless-offline" para auxiliá-lo no seu desenvolvimento local. (API Gateway / lambda);
+* Não pedimos os fluxo completo de autenticação (registrar, esquecia a senha, etc.). Crie os usuários desejados manualmente ou por algum tipo de migração.
 * Estamos querendo avaliar seu conhecimento, sugerimos que escolha as coisas que façam mais sentido para a avaliação. Deixei a cereja do bolo por último.
-* Caso tenha terminado tudo e queira colocar log e teste na aplicação, sinta-se a vontade.
+* Caso tenha terminado tudo e queira colocar log e teste na aplicação, sinta-se à vontade.
